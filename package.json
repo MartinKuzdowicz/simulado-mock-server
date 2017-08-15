@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "win-start": "cd node_modules/.bin && simulado --file ..\\..\\mock-endpoints.json && cd ..\\..\\",
-    "start": "./node_modules/simulado/bin/simulado --file ./mock-endpoints.json",
+    "start": "./node_modules/simulado/bin/simulado --file ./mock-endpoints.json"
   },
   "author": "kuzdowicz",
   "license": "ISC",
