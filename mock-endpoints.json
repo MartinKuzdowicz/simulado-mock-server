@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/test",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+      "Cache-Control": "no-cache",
+      "Expires": "-1",
+      "Pragma": "no-cache"
+    },
+    "response":{
+        "name": "test",
+        "type": "app"
+    }
+  }
+]
